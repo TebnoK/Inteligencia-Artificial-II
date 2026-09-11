@@ -1,0 +1,6 @@
+# Dependencias base
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyter
