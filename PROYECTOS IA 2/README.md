@@ -14,6 +14,8 @@ Cada carpeta `sesion-XX-.../` corresponde a una clase e incluye dos tipos de ent
 | 01 | Refuerzo Python y Álgebra Lineal | [Analítico 1](sesion-01-refuerzo-python-algebra-lineal/taller-analitico-1-indexacion-tensores.md) · [Analítico 2](sesion-01-refuerzo-python-algebra-lineal/taller-analitico-2-transformaciones.md) · [Laboratorio 1](sesion-01-refuerzo-python-algebra-lineal/taller-laboratorio-1-transformaciones-afines.py) · [Laboratorio final](sesion-01-refuerzo-python-algebra-lineal/taller-laboratorio-final-kernel.py) |
 | 02 | Tensor de color y análisis estadístico | [Analítico 1](sesion-02-tensor-color-analisis-estadistico/taller-analitico-1-slicing-tensores.md) · [Laboratorio 1](sesion-02-tensor-color-analisis-estadistico/taller-laboratorio-1-escala-grises.py) · [Laboratorio 2](sesion-02-tensor-color-analisis-estadistico/taller-laboratorio-2-histogramas.py) |
 | 03 | Segmentación | [Analítico 1](sesion-03-segmentacion/taller-analitico-1-funcion-escalon.md) · [Laboratorio 1](sesion-03-segmentacion/taller-laboratorio-1-umbralizacion.py) · [Laboratorio final](sesion-03-segmentacion/taller-laboratorio-final-morfologia.py) |
+| 04 | Convolución | [Analítico](sesion-04-convolucion/taller-analitico-calculando-convolucion.md) · [Laboratorio final](sesion-04-convolucion/taller-laboratorio-final-filtros.py) |
+
 
 ## Requisitos
 
@@ -44,6 +46,14 @@ Se puede indicar una imagen en escala de grises y una carpeta de salida:
 ```bash
 python sesion-03-segmentacion/taller-laboratorio-1-umbralizacion.py ruta/documento.jpg resultados-sesion-03
 python sesion-03-segmentacion/taller-laboratorio-final-morfologia.py ruta/documento.jpg resultados-sesion-03
+```
+El laboratorio de la sesión 4 genera automáticamente una imagen con ruido de
+sal y pimienta. No requiere descargar una imagen; opcionalmente se puede pasar
+una imagen en escala de grises y una carpeta de salida:
+
+```bash
+python sesion-04-convolucion/taller-laboratorio-final-filtros.py
+python sesion-04-convolucion/taller-laboratorio-final-filtros.py ruta/imagen.jpg resultados-sesion-04
 ```
 
 ## Autor
