@@ -37,6 +37,15 @@ python sesion-02-tensor-color-analisis-estadistico/taller-laboratorio-1-escala-g
 python sesion-02-tensor-color-analisis-estadistico/taller-laboratorio-2-histogramas.py ruta/a/imagen.jpg
 ```
 
+Los laboratorios de la sesión 3 guardan sus resultados en
+`sesion-03-segmentacion/resultados-sesion-03/`.
+Se puede indicar una imagen en escala de grises y una carpeta de salida:
+
+```bash
+python sesion-03-segmentacion/taller-laboratorio-1-umbralizacion.py ruta/documento.jpg resultados-sesion-03
+python sesion-03-segmentacion/taller-laboratorio-final-morfologia.py ruta/documento.jpg resultados-sesion-03
+```
+
 ## Autor
 
 Jhon Esteban Monroy Trujillo — Ingeniería de Sistemas
