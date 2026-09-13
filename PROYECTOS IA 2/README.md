@@ -19,7 +19,7 @@ Cada carpeta `sesion-XX-.../` corresponde a una clase e incluye dos tipos de ent
 
 ## Requisitos
 
-- Python 3.10+
+- Python 3.10+  
 
 ```bash
 pip install -r requirements.txt
@@ -54,6 +54,20 @@ una imagen en escala de grises y una carpeta de salida:
 ```bash
 python sesion-04-convolucion/taller-laboratorio-final-filtros.py
 python sesion-04-convolucion/taller-laboratorio-final-filtros.py ruta/imagen.jpg resultados-sesion-04
+```
+Para la sesión 5, se coloca una imagen real con formas y texturas en
+`sesion-05-gradientes-bordes/imagenes/` con el nombre `imagen-bordes.jpg`
+de un fondo con formas geometricas de edificios.
+Después ejecuta: 
+
+```bash
+python sesion-05-gradientes-bordes/taller-laboratorio-final-inspector-bordes.pyy 
+```
+
+Los resultados se guardan en `sesion-05-gradientes-bordes/resultados-sesion-05/`.
+
+```bash
+python sesion-05-gradientes-bordes/taller-laboratorio-final-inspector-bordes.py ruta/imagen.jpg resultados-sesion-05
 ```
 
 ## Autor
