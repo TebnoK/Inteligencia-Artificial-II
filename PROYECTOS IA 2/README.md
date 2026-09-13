@@ -16,7 +16,7 @@ Cada carpeta `sesion-XX-.../` corresponde a una clase e incluye dos tipos de ent
 | 03 | Segmentación | [Analítico 1](sesion-03-segmentacion/taller-analitico-1-funcion-escalon.md) · [Laboratorio 1](sesion-03-segmentacion/taller-laboratorio-1-umbralizacion.py) · [Laboratorio final](sesion-03-segmentacion/taller-laboratorio-final-morfologia.py) |
 | 04 | Convolución | [Analítico](sesion-04-convolucion/taller-analitico-calculando-convolucion.md) · [Laboratorio final](sesion-04-convolucion/taller-laboratorio-final-filtros.py) |
 | 05 | Gradientes espaciales y detección de bordes | [Analítico](sesion-05-gradientes-bordes/taller-analitico-calculando-gradiente.md) · [Laboratorio final](sesion-05-gradientes-bordes/taller-laboratorio-final-inspector-bordes.py) |
-| 06 | Extracción de características y contornos | [Analítico](sesion-06-extraccion-caracteristicas-contornos/taller-analitico-extraccion-caracteristicas-contornos.md) · [README de sesión](sesion-06-extraccion-caracteristicas-contornos/README.md) · [Laboratorio final](sesion-06-extraccion-caracteristicas-contornos/taller-laboratorio-final-contornos-monedas.py) |
+| 06 | Extracción de características y contornos | [Analítico](sesion-06-extraccion-caracteristicas-contornos/taller-analitico-extraccion-caracteristicas-contornos.md) · [Laboratorio final](sesion-06-extraccion-caracteristicas-contornos/taller-laboratorio-final-contornos-monedas.py) |
 
 
 ## Requisitos
