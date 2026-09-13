@@ -1,0 +1,4 @@
+Análisis de contornos
+====================
+
+Contorno 0: area=79876.00, perimetro=2643.11, bbox=(2, 44, 495, 273), centroide=(236.77130802744253, 168.0323355367486)
