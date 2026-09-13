@@ -1,4 +1,4 @@
-# TALLER ANALÍTICO: BOUNDING BOX (20 MIN)
+# TALLER ANALÍTICO: BOUNDING BOX 
 
 Supongamos que el algoritmo detectó un contorno con las siguientes 4 coordenadas (esquinas de un objeto irregular):
 
