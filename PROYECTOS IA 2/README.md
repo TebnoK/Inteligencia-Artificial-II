@@ -17,6 +17,7 @@ Cada carpeta `sesion-XX-.../` corresponde a una clase e incluye dos tipos de ent
 | 04 | Convolución | [Analítico](sesion-04-convolucion/taller-analitico-calculando-convolucion.md) · [Laboratorio final](sesion-04-convolucion/taller-laboratorio-final-filtros.py) |
 | 05 | Gradientes espaciales y detección de bordes | [Analítico](sesion-05-gradientes-bordes/taller-analitico-calculando-gradiente.md) · [Laboratorio final](sesion-05-gradientes-bordes/taller-laboratorio-final-inspector-bordes.py) |
 | 06 | Extracción de características y contornos | [Analítico](sesion-06-extraccion-caracteristicas-contornos/taller-analitico-extraccion-caracteristicas-contornos.md) · [Laboratorio final](sesion-06-extraccion-caracteristicas-contornos/taller-laboratorio-final-contornos-monedas.py) |
+| 09 | K-Vecinos más cercanos (KNN) | [Analítico](sesion-09-knn/taller-analitico-knn.md) · [Laboratorio final](sesion-09-knn/taller-laboratorio-final-knn.py) |
 
 
 ## Requisitos
@@ -81,6 +82,15 @@ python sesion-06-extraccion-caracteristicas-contornos/taller-laboratorio-final-c
 
 Los resultados se guardan en
 `sesion-06-extraccion-caracteristicas-contornos/resultados-sesion-06/`.
+
+Para la sesión 9, el laboratorio usa el conjunto Iris para entrenar un
+clasificador KNN y medir su precisión. Se ejecuta con:
+
+```bash
+python sesion-09-knn/taller-laboratorio-final-knn.py
+```
+
+El análisis se hace directamente sobre los datos del conjunto `iris`.
 
 ## Autor
 
