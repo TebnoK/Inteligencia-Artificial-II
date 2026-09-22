@@ -19,6 +19,7 @@ Cada carpeta `sesion-XX-.../` corresponde a una clase e incluye dos tipos de ent
 | 06 | Extracción de características y contornos | [Analítico](sesion-06-extraccion-caracteristicas-contornos/taller-analitico-extraccion-caracteristicas-contornos.md) · [Laboratorio final](sesion-06-extraccion-caracteristicas-contornos/taller-laboratorio-final-contornos-monedas.py) |
 | 09 | K-Vecinos más cercanos (KNN) | [Analítico](sesion-09-knn/taller-analitico-knn.md) · [Laboratorio final](sesion-09-knn/taller-laboratorio-final-knn.py) |
 | 10 | Support Vector Machine (SVM) | [Analítico](sesion-10-svm/taller-analitico-svm-margin.md) · [Laboratorio final](sesion-10-svm/taller-laboratorio-final-svm.py) |
+| 11 | Redes neuronales: el perceptrón | [Analítico](sesion-11-redes-neuronales/taller-analitico-perceptron.md) · [Laboratorio final](sesion-11-redes-neuronales/taller-laboratorio-final-perceptron.py) |
 
 
 ## Requisitos
@@ -100,6 +101,12 @@ margen máximo. Se ejecuta con:
 ```bash
 python sesion-10-svm/taller-laboratorio-final-svms.py
 ```
+Para la sesión 11, el laboratorio implementa un perceptrón desde cero y modifica manualmente sus pesos para resolver la compuerta OR:
+
+```bash
+python sesion-11-redes-neuronales/taller-laboratorio-final-perceptron.py
+```
+
 
 ## Autor
 
