@@ -20,6 +20,7 @@ Cada carpeta `sesion-XX-.../` corresponde a una clase e incluye dos tipos de ent
 | 09 | K-Vecinos más cercanos (KNN) | [Analítico](sesion-09-knn/taller-analitico-knn.md) · [Laboratorio final](sesion-09-knn/taller-laboratorio-final-knn.py) |
 | 10 | Support Vector Machine (SVM) | [Analítico](sesion-10-svm/taller-analitico-svm-margin.md) · [Laboratorio final](sesion-10-svm/taller-laboratorio-final-svm.py) |
 | 11 | Redes neuronales: el perceptrón | [Analítico](sesion-11-redes-neuronales/taller-analitico-perceptron.md) · [Laboratorio final](sesion-11-redes-neuronales/taller-laboratorio-final-perceptron.py) |
+| 12 | Redes neuronales densas o multicapa | [Analítico](sesion-12-redes-neuronales-densas/taller-analitico-parametros-mlp.md) · [Laboratorio final](sesion-12-redes-neuronales-densas/taller-laboratorio-final-matrices.py) |
 
 
 ## Requisitos
@@ -106,7 +107,11 @@ Para la sesión 11, el laboratorio implementa un perceptrón desde cero y modifi
 ```bash
 python sesion-11-redes-neuronales/taller-laboratorio-final-perceptron.py
 ```
+Para la sesión 12, el laboratorio calcula la propagación hacia adelante de una red densa con NumPy y procesa dos clientes como una matriz:
 
+```bash
+python sesion-12-redes-neuronales-densas/taller-laboratorio-final-matrices.py
+```
 
 ## Autor
 
